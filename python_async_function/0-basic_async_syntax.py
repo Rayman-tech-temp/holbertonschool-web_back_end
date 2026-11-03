@@ -1,5 +1,7 @@
-#!/usr/bin/python3
-"""Asynchronus program that waits random from 0 to max returns the value"""
+#!/usr/bin/env python3
+"""
+Asynchronus program that waits random from 0 to max returns the value
+"""
 import asyncio
 import random
 
